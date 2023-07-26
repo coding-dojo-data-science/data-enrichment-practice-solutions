@@ -10,4 +10,4 @@
 
 2) Model File (.mwb) - if needed
 
-<a href="SOLUTION Dojo-and-Ninjas/dojos-ninjas.mwb">dojos-ninjas.mwb</a>
+<a href="dojos-ninjas.mwb">dojos-ninjas.mwb</a>
